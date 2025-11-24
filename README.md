@@ -177,7 +177,7 @@ Step 6: Check Running The Site At  <a Href="Http://localhost:8083/trainbook/">ht
 
 Step 7: Default Username And Password For Admin Is "admin@demo.com" And "admin"
 
-Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
+Step 8: Default Username And Password For User Is "kathir@demo.com" And "kathir"
 
 
 
@@ -221,5 +221,5 @@ Step 8: Default Username And Password For User Is "shashi@demo.com" And "shashi"
 
 
 #### "Suggestions and project Improvement are Invited"
-#### Shashi Raj
+#### Kathir Selvam V
 ##### Project Leader
